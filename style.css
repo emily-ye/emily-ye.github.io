@@ -1,0 +1,29 @@
+h1{
+	color:#c6e2ff;
+}
+h2{
+	color:#c6e2ff
+}
+body{
+	background-color: #ffc0cb;
+}
+p{
+	color:#c6e2ff;
+	font-size:20px
+}
+h3{
+	color:#bcf7cb
+	font-size:20px
+}
+a:visited{
+	color:#bcf7cb
+}
+
+table{ 
+	border: 5px solid #b0e0e6;
+	margin: 20px
+}
+.thisButton{
+	background-color: #ffffba
+}
+
